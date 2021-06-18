@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DevBytes</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Title</string>
+    <string name="updated">Updated</string>
+    <string name="description">Description</string>
+    <string name="url">URL</string>
+    <string name="todo">TODO</string>
+    <string name="watch_on_youtube">Watch on youtube</string>
+</resources>
