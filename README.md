@@ -14,10 +14,10 @@ Android app that lists a number of videos by Google for Android developers.
 - Uses Retrofit + Moshi
 
   
-![Logo](https://github.com/agrodroid/DevBytes/blob/new-branch/devbytes.png?raw=true)
+<img src="https://github.com/agrodroid/DevBytes/blob/new-branch/devbytes.png?raw=true" width="30%">
 
     
 ## Screenshots
-<img src="https://github.com/agrodroid/DevBytes/blob/new-branch/devbytes1.jpg?raw=true" width="50%">
+<img src="https://github.com/agrodroid/DevBytes/blob/new-branch/devbytes1.jpg?raw=true" width="30%">
 
   
