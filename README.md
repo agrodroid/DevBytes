@@ -18,7 +18,6 @@ Android app that lists a number of videos by Google for Android developers.
 
     
 ## Screenshots
-
-![App Screenshot](https://github.com/agrodroid/DevBytes/blob/new-branch/devbytes1.jpg?raw=true)
+<img src="https://github.com/agrodroid/DevBytes/blob/new-branch/devbytes1.jpg?raw=true" width="50%">
 
   
