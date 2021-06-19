@@ -4,7 +4,8 @@ Android app that lists a number of videos by Google for Android developers.
 
 - [@agrodroid](https://github.com/agrodroid)
 
-  
+<img src="https://github.com/agrodroid/DevBytes/blob/new-branch/devbytes.png?raw=true" width="30%"> 
+ 
 ## Features
 
 - 100% Kotlin
@@ -14,13 +15,6 @@ Android app that lists a number of videos by Google for Android developers.
 - Uses Retrofit + Moshi
 - Clean UI
 - Repository pattern followed
-
-  
-<img src="https://github.com/agrodroid/DevBytes/blob/new-branch/devbytes.png?raw=true" width="30%">
-
-
     
 ## Screenshots
 <img src="https://github.com/agrodroid/DevBytes/blob/new-branch/devbytes1.jpg?raw=true" width="30%">
-
-  
