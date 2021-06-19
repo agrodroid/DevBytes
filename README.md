@@ -1,10 +1,11 @@
 # DevBytes
 Android app that lists a number of videos by Google for Android developers.
+
+<img src="https://github.com/agrodroid/DevBytes/blob/new-branch/devbytes.png?raw=true" width="30%"> 
+
 ## Authors
 
 - [@agrodroid](https://github.com/agrodroid)
-
-<img src="https://github.com/agrodroid/DevBytes/blob/new-branch/devbytes.png?raw=true" width="30%"> 
  
 ## Features
 
